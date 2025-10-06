@@ -1,2 +1,2 @@
 # AI-project
-Application Python qui utilise l’intelligence artificielle, basée sur TensorFlow, pour deviner vos dessins en temps réel via une interface interactive 
+Python application using artificial intelligence, based on TensorFlow, to recognize your drawings in real time through an interactive interface. 
